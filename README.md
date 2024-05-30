@@ -1,2 +1,2 @@
 # scaler-backend-project
-scaler backend proect practice
+scaler backend project practice
